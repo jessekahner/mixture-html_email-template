@@ -1,0 +1,1126 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post_type",
+				"post_type_slug"
+			],
+			[
+				"get_the",
+				"get_the_content"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"port",
+				"portfolio_children"
+			],
+			[
+				"all",
+				"all_wp_pages"
+			],
+			[
+				"s",
+				"style	Tag"
+			],
+			[
+				"get_fi",
+				"get_field"
+			],
+			[
+				"get_term",
+				"get_term_by"
+			],
+			[
+				"rea",
+				"realisations"
+			],
+			[
+				"cc",
+				"ccustom_taxonomy	Custom Taxonomy: Register"
+			],
+			[
+				"page",
+				"page_class"
+			],
+			[
+				"wp_get_attan",
+				"wp_get_attachment_image_src"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"get_comments",
+				"get_comments_number"
+			],
+			[
+				"stopId",
+				"stopIdArray"
+			],
+			[
+				"font-",
+				"font-size"
+			],
+			[
+				"NULL",
+				"NULL"
+			],
+			[
+				"get",
+				"get_childrens"
+			],
+			[
+				"prevous",
+				"previous_post_link"
+			],
+			[
+				"bt",
+				"Btn2W"
+			],
+			[
+				"slider",
+				"sliderBtn2W"
+			],
+			[
+				"get_permalink",
+				"get_post_permalink"
+			],
+			[
+				"echo",
+				"echo	echo \"…\""
+			],
+			[
+				"list-s",
+				"list-style"
+			],
+			[
+				"thumb",
+				"get_the_post_thumbnail"
+			],
+			[
+				"shor",
+				"add_shortcode"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"cpt",
+				"custom_post_type	Custom Post Type: Register"
+			],
+			[
+				"thumbn",
+				"the_post_thumbnail"
+			],
+			[
+				"temp",
+				"comments_template"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"get_template",
+				"get_template_directory_uri"
+			],
+			[
+				"is_ta",
+				"is_tag"
+			],
+			[
+				"is_ca",
+				"is_category"
+			],
+			[
+				"post",
+				"post_type"
+			],
+			[
+				"pa",
+				"parent_page"
+			],
+			[
+				"get_page",
+				"get_page"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is_bl",
+				"is_blog_sidebar"
+			],
+			[
+				"cateo",
+				"category"
+			],
+			[
+				"wp_li",
+				"wp_list_categories"
+			],
+			[
+				"cate",
+				"category_labels"
+			],
+			[
+				"youtube",
+				"youtube_video"
+			],
+			[
+				"short",
+				"shortcode_atts"
+			],
+			[
+				"remove",
+				"remove_filter"
+			],
+			[
+				"get_page_y",
+				"get_page_by_path"
+			],
+			[
+				"get_post_a",
+				"get_post_type_archive_link"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"bang",
+				"bang_nofollow"
+			],
+			[
+				"details",
+				"detailsInfo"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"new",
+				"new_arr"
+			],
+			[
+				"sho",
+				"shortcode_atts"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"goog",
+				"googlemap"
+			],
+			[
+				"pos",
+				"pos-r	position: relative;"
+			],
+			[
+				"p",
+				"pos	position"
+			],
+			[
+				"fl",
+				"fl-n	float: none;"
+			],
+			[
+				"get_f",
+				"get_field"
+			],
+			[
+				"get_po",
+				"get_post_type"
+			],
+			[
+				"the_ti",
+				"the_title"
+			],
+			[
+				"get_the_",
+				"get_the_ID"
+			],
+			[
+				"rewin",
+				"rewind_posts"
+			],
+			[
+				"is_post_type",
+				"is_post_type_archive"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"trans",
+				"translation_name"
+			],
+			[
+				"tran",
+				"translation_name"
+			],
+			[
+				"item",
+				"total_item_count"
+			],
+			[
+				"is_post_",
+				"is_post_type_archive"
+			],
+			[
+				"is_page",
+				"is_page"
+			],
+			[
+				"this",
+				"this_page"
+			],
+			[
+				"wp_reset",
+				"wp_reset_postdata"
+			],
+			[
+				"get_post",
+				"get_post_time"
+			],
+			[
+				"wp_get_a",
+				"wp_get_attachment_image"
+			],
+			[
+				"wp_rese",
+				"wp_reset_postdata"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"WP_Q",
+				"wp_query"
+			],
+			[
+				"ci",
+				"city"
+			],
+			[
+				"type",
+				"type_args"
+			],
+			[
+				"city",
+				"city_meta_query"
+			],
+			[
+				"get_pa",
+				"get_page_template"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"fet",
+				"Fetch: File"
+			],
+			[
+				"lis",
+				"Package Control: List Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"ssh",
+				"Set Syntax: HTML"
+			],
+			[
+				"fe",
+				"Fetch: Package"
+			],
+			[
+				"mark",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"fetch",
+				"Fetch: Package"
+			],
+			[
+				"ssjqu",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"package control",
+				"Package Control: Remove Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"mard",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"open",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"ssphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"commi",
+				"Snippet: Custom Post Type: Admin Messages"
+			],
+			[
+				"commit",
+				"SVN: (Folder) Commit"
+			],
+			[
+				"tog",
+				"Toggle Block Comment"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"f",
+				"Fetch: Manage"
+			],
+			[
+				"s",
+				"Set Syntax: HTML"
+			],
+			[
+				"ss",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/csmoca/admin/includes/admin.config.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-1/admin.config.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-1/admin.variables.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-1/index 5.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-1/connexion.php",
+		"/Z/6837_ICAO__Envionmental_Report/6837_WWW/flippbook/ICAO Environmental Report/.htaccess",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-5/plugins-storeLocator.php",
+		"/C/wamp/www/absc/newsletter/models/global.json",
+		"/C/wamp/www/absc/newsletter/templates/includes/styles.liquid",
+		"/C/wamp/www/absc/newsletter/converted-html/20130905.html",
+		"/C/wamp/www/absc/newsletter/mixture.json",
+		"/C/wamp/www/absc/newsletter/templates/20130905.liquid",
+		"/C/wamp/www/absc/newsletter/templates/layouts/layout.liquid",
+		"/C/wamp/www/absc/newsletter/templates/includes/unsubscribe.en.liquid",
+		"/C/wamp/www/absc/newsletter/templates/includes/trouble.en.liquid",
+		"/C/wamp/www/absc/newsletter/templates/20130905_humira.liquid",
+		"/C/wamp/www/absc/mixture.json",
+		"/C/wamp/www/absc/progress.sublime-project",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-5/single-realisations.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-5/footer.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-5/home.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-12/home 2.php",
+		"/C/wamp/www/id3_new/wp-content/themes/id3/home.php",
+		"/c/wamp/www/id3_new/wp-content/themes/id3/library/scss/_base.scss",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/fonts/poly-regular-webfont.svg",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/fonts/UniversLTStd-Bold.svg",
+		"/C/Users/Bang Marketing/AppData/Roaming/Microsoft/Signatures/carte_mdn_noel.htm",
+		"/C/Users/Bang Marketing/vinylmtl/search/index.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-9/.htaccess",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-9/social_media.css",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-9/sidebar.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/css/social_media.css",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/page 2.php",
+		"/C/Users/Bang Marketing/vinylmtl/libs/class/class.search.php",
+		"/C/Users/Bang Marketing/vinylmtl/js/script.js",
+		"/C/wamp/www/id3/wp-content/themes/id3/single-realisations.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_base.less",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/.htaccess",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/index 2.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/index 3.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/edition.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/index 5.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/variables.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/index 4.php",
+		"/Z/6623_ID3__siteweb/6623_Original_client/2013-04-12/Fonts pour maquette/fp-export-1366915924/font.css",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/bones.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/js/scripts.js",
+		"/C/Users/Bang Marketing/Google Drive/sublime/Packages/User/Custom_Taxonomy.sublime-snippet",
+		"/C/wamp/www/id3/wp-content/themes/id3/functions.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/css/jquery.bxslider.css",
+		"/C/wamp/www/id3/wp-content/themes/id3/home.php",
+		"/C/Users/Bang Marketing/.larch/config.yaml",
+		"/C/wamp/www/id3/wp-content/themes/id3/header.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_mixins.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/page.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/includes/plugins-realisations.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/mixture.json",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_fonts.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/test.html",
+		"/C/wamp/www/id3/wp-content/themes/id3/page-contact.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/js/libs/nanoscroller/nanoscroller.css",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/js/libs/perfect-scrollbar/perfect-scrollbar.css",
+		"/C/wamp/www/id3/wp-content/themes/id3/taxonomy-types.php",
+		"/Z/6765_RAPIDSNACK__redirection_MaxiCrisp/6765_WWW/index.html",
+		"/Z/6765_RAPIDSNACK__redirection_MaxiCrisp/6765_WWW/css/style.css",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/index 6.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/connexion.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/_vti_inf.html",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/postinfo.html",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-7/config.php",
+		"/C/wamp/www/id3/wp-includes/post-template.php",
+		"/C/wamp/www/lussier/wp-content/themes/lussier_assurances/mixture.json",
+		"/C/wamp/www/id3/wp-content/themes/id3/404.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/id3.sublime-project",
+		"/C/Users/Bang Marketing/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/wamp/www/id3/wp-content/themes/id3/footer.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/js/maps.js",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_grid.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/sidebar-page.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/sidebar-contact.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_variables.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/archive.php",
+		"/C/Users/Bang Marketing/AppData/Roaming/Sublime Text 2/Packages/User/Fetch.sublime-settings",
+		"/C/wamp/www/id3/wp-config.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/7zO9309.tmp/universltstd.css",
+		"/C/wamp/www/id3/wp-content/themes/twentytwelve/page.php",
+		"/C/wamp/www/id3/wp-content/themes/twentytwelve/index.php",
+		"/C/wamp/www/id3/wp-content/themes/twentytwelve/content-page.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/page-custom.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_768up.less",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/7zO2723.tmp/stylesheet.css",
+		"/C/wamp/www/lussier/wp-config.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/css/style.css",
+		"/C/wamp/www/id3/wp-content/themes/id3/style.css",
+		"/Z/6623_ID3__siteweb/6623_Original_client/2013-04-08/MyFontsWebfontsKit/StartHere.html",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_481up.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/ie.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/style.less",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-11/send.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-11/send 2.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-11/send 3.php",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-11/wp-config.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/index.php",
+		"/C/wamp/www/capim_bkp/configuration.php",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_print.less",
+		"/C/wamp/www/capitalimage/.htpasswd",
+		"/C/wamp/www/capitalimage/.htaccess",
+		"/Z/6623_ID3__siteweb/6623_Original_client/2013-04-08/MyFontsWebfontsKit/MyFontsWebfontsKit.css",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/7zOD18.tmp/readme.md",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/css/jquery.bxslider_OLD.css",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/_normalize.less",
+		"/C/wamp/www/id3/wp-content/themes/id3/library/less/login.less",
+		"/C/Users/Bang Marketing/AppData/Local/Temp/fz3temp-10/footer.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/content-section.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/js/script.js",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/single.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/sidebar-blog.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/footer.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/css/social_media.css",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/search.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/content-search.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/home.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/sitemap.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/contact.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/content-single-post.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/content-single-news.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/functions.php",
+		"/C/wamp/www/nordic/wp-content/themes/nordic/content.php"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"c:\\wamp\\www\\id3_new\\wp-content\\plugins\\wordpress-seo",
+			"c:\\wamp\\www\\id3_new\\wp-content\\themes\\id3",
+			"C:\\wamp\\www\\id3\\wp-content\\themes\\id3",
+			"C:\\wamp\\www\\nordic\\wp-content\\themes\\nordic",
+			"<open folders>",
+			"C:\\wamp\\www\\capitalimage\\wp-content\\plugins\\contact-form-7",
+			"C:\\wamp\\www\\capitalimage\\wp-content\\plugins\\wordpress-seo",
+			"C:\\wamp\\www\\capitalimage\\wp-content\\themes\\capital-image",
+			"C:\\wamp\\www\\capitalimage\\wp-content\\plugins\\wp-recaptcha",
+			"<project>",
+			"C:\\wamp\\www\\capitalimage\\wp-content\\themes\\capital-image",
+			"C:\\wamp\\www\\capitalimage\\wp-content\\plugins\\contact-form-7",
+			"<open folders>",
+			"C:\\wamp\\www\\starlink\\new\\wp-content\\themes\\starlink"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"abscanada.ca",
+			"https",
+			"http://ofsys.com/T/OFS3/S/en-US/5511/ZbF47V/SL[[=SendLog.idSendLog;]]/[[=SendLog.slKey;]]/Sondage.ofsys",
+			"http://ofsys.com/T/OFS3/S/en-US/5507/X4SaH9/SL[[=SendLog.idSendLog;]]/[[=SendLog.slKey;]]/Sondage.ofsys",
+			"6855",
+			"href=\"#\"",
+			"#",
+			"<p",
+			"<td",
+			"898989",
+			"20px",
+			"20px ",
+			"#sidebar",
+			"sidebar",
+			" plus",
+			"collumn",
+			".single-realis",
+			"#main div.content",
+			"rticle-header",
+			"h1",
+			"custom-post-type-title",
+			"wp_seo_get_bc_title",
+			"article.rea",
+			"auto",
+			"hyph",
+			"hyp",
+			"bx-w",
+			"vid-content",
+			"getYtID",
+			"bones-ie-only",
+			"modern",
+			"bones_scripts_and_styles",
+			"ie.cs",
+			".js",
+			"console",
+			"slider-other",
+			"En savoir plus",
+			"+&nbsp;En savoir plus",
+			"media",
+			"speed",
+			".cta",
+			"Univers",
+			".cta",
+			"article.reali",
+			"portfolio",
+			"#prix-dis",
+			".cta",
+			"trailing",
+			"slash",
+			"trailing",
+			"slash",
+			"8",
+			"bxsl",
+			"hgroup",
+			".home",
+			"reorder_icons",
+			"$b",
+			"a",
+			" plus",
+			"plus",
+			"p",
+			"Theme Options",
+			", $translation_name",
+			" $translation_name",
+			"mainColor",
+			"#slider",
+			"scripts.min",
+			"scripts",
+			";\n",
+			"perfect-scrollbar",
+			"nanoscroller",
+			"nanoscrollbar",
+			"perfect-scrollbar",
+			"nanoscroller",
+			"fancybox",
+			"15px",
+			"info-supp",
+			"font-size",
+			".single",
+			"Maxicrisp",
+			"Univers LT Std 45 Light",
+			"page-sub",
+			"div.entry-content",
+			"li",
+			"sidebar",
+			"Std 55",
+			"url('",
+			"UniversLTStd",
+			"blog",
+			"#main",
+			"z-index: 9999",
+			"rgba",
+			"gallery_",
+			"team_members",
+			"polyregular",
+			"#2a2a2a",
+			".single #sidebar,\n	.single #content,\n	#home-product-links #promo-products,",
+			".single #sidebar",
+			".single #sidebar,\n	.single #content,\n	#home-product-links #promo-products,\n	#home-product-links #action-links,\n	.archive #content,\n	.archive #sidebar\n	.search #content,\n	.search #sidebar",
+			"Réalisation",
+			"content",
+			"<br />",
+			"p",
+			"mainBlue",
+			"webfonts",
+			" $(\".info\")",
+			"excerpt",
+			"0079c2",
+			"h2",
+			"threecol",
+			";\n",
+			"*",
+			"enque",
+			"image_si",
+			"blog",
+			"add_image",
+			"span",
+			"370",
+			"project",
+			"slider",
+			"aside",
+			"display:none",
+			".entry-thumb",
+			"aside h2",
+			"right",
+			"search",
+			"height",
+			"comment"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"$translation_name",
+			".archive ",
+			"</aside>",
+			"Newsletter",
+			"Newsletters",
+			"newsletter",
+			"Portfolio item",
+			"#extra-content",
+			"realisations",
+			"$translation_name",
+			"expertises",
+			"_client",
+			"@link-color",
+			"Octobre ",
+			"_OCT_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"functio",
+				"nordic/functions.php"
+			],
+			[
+				"home",
+				"nordic/home.php"
+			],
+			[
+				"function",
+				"nordic/functions.php"
+			],
+			[
+				"heade",
+				"nordic/header.php"
+			],
+			[
+				"footer",
+				"nordic/footer.php"
+			],
+			[
+				"social",
+				"nordic/css/social_media.css"
+			],
+			[
+				"vari",
+				"nordic/css/less/variable.less"
+			],
+			[
+				"header",
+				"nordic/header.php"
+			],
+			[
+				"hom",
+				"nordic/home.php"
+			],
+			[
+				"foop",
+				"nordic/footer.php"
+			],
+			[
+				"mixles",
+				"nordic/css/mixin.less"
+			],
+			[
+				"mixless",
+				"nordic/css/mixin.less"
+			],
+			[
+				"funphp",
+				"nordic/functions.php"
+			],
+			[
+				"comles",
+				"nordic/css/less/common.less"
+			],
+			[
+				"heph",
+				"nordic/header.php"
+			],
+			[
+				"sme",
+				"css/social_media.css"
+			],
+			[
+				"funph",
+				"functions.php"
+			],
+			[
+				"styless",
+				"css/less/style.less"
+			],
+			[
+				"cmles",
+				"css/less/common.less"
+			],
+			[
+				"miles",
+				"css/mixin.less"
+			],
+			[
+				"foot",
+				"footer.php"
+			],
+			[
+				"sles",
+				"wp-content/themes/cit/css/less/style.less"
+			],
+			[
+				"mixl",
+				"nordic/css/mixin.less"
+			],
+			[
+				"mixle",
+				"nordic/css/mixin.less"
+			],
+			[
+				"comonless",
+				"nordic/css/less/common.less"
+			],
+			[
+				"vales",
+				"nordic/css/less/variable.less"
+			],
+			[
+				"plugins-late",
+				"nordic/includes/plugins-latest-projects.php"
+			],
+			[
+				"mix",
+				"nordic/css/mixin.less"
+			],
+			[
+				"comless",
+				"nordic/css/less/common.less"
+			],
+			[
+				"common",
+				"nordic/css/common.css"
+			],
+			[
+				"sless",
+				"nordic/css/less/style.less"
+			],
+			[
+				"sidebar",
+				"nordic/sidebar.php"
+			],
+			[
+				"page",
+				"nordic/page.php"
+			],
+			[
+				"ho",
+				"nordic/home.php"
+			],
+			[
+				"varles",
+				"nordic/css/less/variable.less"
+			],
+			[
+				"nfunc",
+				"nordic/functions.php"
+			],
+			[
+				"lessless",
+				"nordic/css/lesshat.less"
+			],
+			[
+				"mile",
+				"nordic/css/mixin.less"
+			],
+			[
+				"lessles",
+				"nordic/css/lesshat.less"
+			],
+			[
+				"coless",
+				"nordic/css/less/common.less"
+			],
+			[
+				"cocss",
+				"nordic/css/common.css"
+			],
+			[
+				"accue",
+				"wp-content/plugins/advanced-custom-fields/core/controllers/everything_fields.php"
+			],
+			[
+				"inde",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"id",
+				"/C/wamp/www/id3_new/wp-content/themes/id3/id3.sublime-project"
+			],
+			[
+				"agrop",
+				"/C/wamp/www/agropur/agropur.sublime-project"
+			],
+			[
+				"roi",
+				"/C/wamp/www/roi/ROI.sublime-project"
+			],
+			[
+				"obur",
+				"/C/wamp/www/oburo/oburo.sublime-project"
+			],
+			[
+				"ro",
+				"/C/wamp/www/roi/ROI.sublime-project"
+			],
+			[
+				"lu",
+				"/C/wamp/www/lussier/lussier.sublime-project"
+			],
+			[
+				"luss",
+				"/C/wamp/www/lussier/master/lussier.sublime-project"
+			],
+			[
+				"c",
+				"/C/wamp/www/coeffiscience/coeffiscience.sublime-project"
+			],
+			[
+				"ll",
+				"/C/wamp/www/lussier/lussier.sublime-project"
+			],
+			[
+				"coef",
+				"/C/wamp/www/coeffiscience/coeffiscience.sublime-project"
+			],
+			[
+				"coeff",
+				"/C/wamp/www/coeffiscience/coeffiscience.sublime-project"
+			],
+			[
+				"",
+				"/C/wamp/www/capitalimage/capital-image.sublime-project"
+			],
+			[
+				"coe",
+				"/C/wamp/www/coeffiscience/coeffiscience.sublime-project"
+			],
+			[
+				"lss",
+				"/C/wamp/www/lussier/lussier.sublime-project"
+			],
+			[
+				"laf",
+				"/C/wamp/www/lafortune/lafortune.sublime-project"
+			],
+			[
+				"agr",
+				"/C/wamp/www/agropur/agropur.sublime-project"
+			],
+			[
+				"ser",
+				"/C/Users/Bang Marketing/Documents/server-config.sublime-project"
+			],
+			[
+				"infi",
+				"/C/wamp/www/infidem/infidem.sublime-project"
+			],
+			[
+				"aec",
+				"/C/wamp/www/aec/aec.sublime-project"
+			],
+			[
+				"star",
+				"/C/wamp/www/starlink/starlink.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 226.0,
+	"status_bar_visible": true
+}
