@@ -1,0 +1,58 @@
+{% layout "layout.en" %}
+
+{% block title %}HTML TITLE!!{% endblock %}
+
+{% block content %} 
+	<table cellpadding="0" cellspacing="0" width="700" style="margin:0 auto;">
+		<tr>
+			<td style="background-color:#fff;padding:12px 15px">
+				<table cellpadding="0" cellspacing="0" width="670" style="font-size:12px;font-family:Arial,Helvetica,sans-serif;color:#898989">
+					<tbody>
+						<tr>
+							<td valign="middle" class="logo progress" width="335" height="119" style="color:#a90056;font-size:26px;font-weight:bold;"><img src="http://media.ofsys.com/T/OFSYS/H/680943/ApBp5I/logo_progress_en.png " alt="Progress - Make it yours" width="568" height="119" style="display:block;border:0"></td>
+							<td valign="top" rowspan="2" style="padding:0 0 0px 0" width="102"><img src="http://media.ofsys.com/T/OFSYS/H/680947/2AlbD9/side_newsletter.png" alt="" width="102" height="204" style="display:block;border:0"></td>
+						</tr>
+						<tr>
+							<td valign="middle" align="center" height="85" class="logo humira" style="background-color:#a90056;color:#fff;font-size:24px;font-weight:bold"><img src="http://media.ofsys.com/T/OFSYS/H/680945/LpQsIy/humira_you.png" alt="HUMIRA and YOU" width="568" height="85" style="display:block;border:0"></td>
+						</tr>
+						<tr>
+							<td valign="top" style="padding:12px 20px 10px 5px;">
+								<p style="margin:0 0 8px 0"><strong style="color:#a90056">Hi [[=Contact.f_FirstName;]],</strong></p>
+								<p style="margin:0 0 8px 0">Your Wellness team at PROGRESS is here for you!</p>
+								<p style="margin:0 0 8px 0">We wanted to check in with you to see how you are doing and to see if you are still on HUMIRA.</p>
+								<p style="margin:0 0 8px 0">
+									<em>Please let us know.</em>
+								</p>
+								<p style="margin:0 0 8px 0">Don't forget, you can always reach PROGRESS by calling 1-866-848-6472, (Monday-Friday, 9am-5pm).</p>
+								<p style="margin:0 0 12px 0">We look forward to hearing from you. All the best, your PROGRESS Team!</p>
+
+								<table cellpadding="0" cellspacing="0" width="60%" style="font-size:12px;text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;color:#898989;font-weight:bold;">
+									<tr>
+										<td width="50%">
+											<table cellpadding="0" cellspacing="0" width="100%" style="font-size:12px;text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;color:#898989;font-weight:bold;">
+												<tr>
+													<td style="font-size:14px;padding-right:2px"><a href="{{ global.survey.yes}}" target="_blank" style="color:#d7bc5c"><img src="http://media.ofsys.com/T/OFSYS/H/679980/boW7HD/humira_yes.png" alt="YES" width="60" height="55"></a></td>
+													<td><a href="{{ global.survey.yes}}" target="_blank" style="color:#d7bc5c">I'm<br>still taking Humira</a></td>
+												</tr>
+											</table>
+										</td>
+										<td>
+											<table cellpadding="0" cellspacing="0" width="100%" style="font-size:12px;text-transform:uppercase;font-family:Arial,Helvetica,sans-serif;color:#898989;font-weight:bold;">
+												<tr>
+													<td style="font-size:14px;padding-right:2px"><a href="{{ global.survey.no }}" target="_blank" style="color:#a289b9"><img src="http://media.ofsys.com/T/OFSYS/H/679979/BP1J3w/humira_no.png" alt="NO" width="60" height="55"></a></td>
+													<td><a href="{{ global.survey.no }}" target="_blank" style="color:#a289b9">I'm no<br>longer taking Humira</a></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<td style="background-color:#a185b9">&nbsp;</td>
+						</tr>
+						
+					</tbody>
+				</table>
+			</td>
+		</tr>
+	</table>
+{% endblock %}

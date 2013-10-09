@@ -4,8 +4,8 @@
     "preprocessorLocations": "assets",
     "preprocessorScriptOutput": "assets/scripts",
     "preprocessorStyleOutput": "assets/css",
-    "projectName": "mixture-html_email-template",
-    "projectDescription": "A simple empty boilerplate for a fresh start",
+    "projectName": "HTML Email - OFSYS",
+    "projectDescription": "A simple empty html email boilerplate for a fresh start",
     "publishedId": null,
     "serverHostname": null,
     "serverPort": null,
@@ -13,7 +13,7 @@
     "templateDefaultLayout": "layout",
     "templateDefaultPage": "index",
     "type": "mixture",
-    "useCompass": false,
+    "useCompass": true,
     "simpleModePartnerServer": null,
     "simpleModeFileTypes": null,
     "modelSource": null,
@@ -29,5 +29,12 @@
     "ignoreDir": "ignore",
     "customTodos": null,
     "ftpSettings": null,
-    "autoPrefixer": null
+    "autoPrefixer": {
+	  "active": true,
+	  "browsers": [
+	  	"last 1 version", 
+	  	"> 1%", 
+	  	"ie 8"
+	  ]
+	}
 }

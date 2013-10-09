@@ -1,0 +1,57 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+	<head>
+		<!-- TODO: make sure if this is what we want -->
+		<meta name="viewport" content="initial-scale=1.0" />
+		<!-- TODO: make sure if this is what we want -->
+		<meta name="viewport" content="user-scalable=false" />
+		<!-- TODO: make sure if this is what we want -->
+		<meta name="viewport" content="maximum-scale=1.0" />
+
+		<!-- Title block allowing child pages to override -->
+		<title>{% block title %}Generic Title{% endblock %}</title>
+		{% include "styles" %}
+		{% block styles %}{% endblock %}
+	</head>
+
+	<body leftmargin="0" marginwidth="0" bgcolor="{{global.colors.main-bg}}" topmargin="0" marginheight="0" style="background-color:{{global.colors.main-bg}}">
+		<div id="wrapper" align="center" bgcolor="{{global.colors.main-bg}}" style="margin:0 auto"  class="ExternalClass">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0" align="center">
+				<tbody>
+					<!-- Header -->
+					<tr>
+						<td style="padding:20px 0 10px 0;">
+							<table cellpadding="0" cellspacing="0" width="640" align="center" style="margin:0 auto;text-align:center">
+								<tr>
+					{% include "trouble.en" %}
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td align="center">
+					<!-- Content block, child page inject content -->
+					{% block content %}{% endblock %}
+						</td>
+					</tr>
+
+					<!-- Footer -->
+					<tr>
+						<td>
+							<table align="center" cellpadding="0" cellspacing="0" style="margin:0 auto;text-align:center" width="640">
+								<tbody>
+									<tr>
+					{% include "unsubscribe.en" %}
+									</tr>
+								</tbody>
+							</table>
+						</td>
+					</tr>
+				</tbody>
+			</table>
+
+		</div>
+		<!-- Read message tag -->
+		[[=Message.ReadTag();]]
+	</body>
+</html>

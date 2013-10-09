@@ -1,0 +1,34 @@
+{
+	"blank_img": "http://media.ofsys.com/T/OFSYS/H/679932/Jl8Q1n/blank.png",
+	"clientname": "CLIENT",
+	"tagline": 
+	{
+		"en": "tagline - EN",
+		"fr": "tagline - FR"
+	},
+	"email":
+	{
+		"not-spam": "xxx@notspam.org"
+	},
+	"width":
+	{
+		"main": 700
+	},
+	"colors":
+	{
+		"main-txt": "#959595",
+		"main-bg": "#eee",
+
+		"outside-txt": "#959595",
+		"outside-link": "#959595",
+		"outside-link": "red"
+	},
+
+	"font":
+	{
+		"main": "",
+		"header": "font-family:Arial, Helvetica, sans-serif; font-size:11px;",
+		"footer": "font-family:Arial, Helvetica, sans-serif; font-size:11px;"
+	}
+
+}
