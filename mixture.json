@@ -20,7 +20,11 @@
     "domain": null,
     "convertHtmlOutput": null,
     "followLeader": true,
-    "routes": null,
+    "routes": [
+  { "route": "en", "template": "core-en", "redirect": null },
+  { "route": "fr", "template": "core-fr", "redirect": null }
+
+],
     "customRubyPath": null,
     "remoteDebugPort": 0,
     "useNodeSass": false,

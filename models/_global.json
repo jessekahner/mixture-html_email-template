@@ -1,6 +1,10 @@
 {
 	"blank_img": "http://media.ofsys.com/T/OFSYS/H/679932/Jl8Q1n/blank.png",
 	"clientname": "CLIENT",
+
+	"READTAG":"[[=Message.ReadTag();]]",
+
+
 	"tagline": 
 	{
 		"en": "tagline - EN",
@@ -16,8 +20,10 @@
 	},
 	"colors":
 	{
-		"main-txt": "#959595",
+		"main-txt": "#898989",
 		"main-bg": "#eee",
+
+		"alt-txt": "",
 
 		"outside-txt": "#959595",
 		"outside-link": "#959595"
@@ -26,9 +32,9 @@
 
 	"font":
 	{
-		"main": "",
-		"header": "font-family:Arial, Helvetica, sans-serif; font-size:11px;",
-		"footer": "font-family:Arial, Helvetica, sans-serif; font-size:11px;"
+		"main": "font-size:12px;font-family:Arial,Helvetica,sans-serif",
+		"header": "font-family:Arial, Helvetica, sans-serif; font-size:11px",
+		"footer": "font-family:Arial, Helvetica, sans-serif; font-size:11px"
 	}
 
 }
