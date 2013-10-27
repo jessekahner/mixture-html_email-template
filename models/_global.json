@@ -1,5 +1,6 @@
 {
-	"blank_img": "http://media.ofsys.com/T/OFSYS/H/679932/Jl8Q1n/blank.png",
+	"__blank_img": "http://media.ofsys.com/T/OFSYS/H/679932/Jl8Q1n/blank.png",
+	"blank_img": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
 	"clientname": "CLIENT",
 
 	"READTAG":"[[=Message.ReadTag();]]",
