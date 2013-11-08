@@ -3,24 +3,29 @@
 {% block title %}HTML TITLE!!{% endblock %}
 
 {% block content %} 
-	<table cellpadding="0" cellspacing="0" width="700" style="margin:0 auto;">
+	<table cellpadding="0" cellspacing="0" width="100%" style="margin:0 auto;width:100%">
 		<tr>
 			<td style="background-color:#fff;padding:12px 15px">
-				<table cellpadding="0" cellspacing="0" width="670" style="{{global.font.main}};color:{{global.colors.main-txt}}">
+				<table cellpadding="0" cellspacing="0" width="100%" style="width:100%;{{global.font.main}};color:{{global.colors.main-txt}}">
 					<tbody>
 						{% include "1col_image" %}
+						
 						{% include "1col_text" %}
 						{% include "2col_text_image" %}
 						{% include "2col_text_bgcolor" %}
 						{% include "2col_image_text" %}
 
-						<tr>
+						{% include "2row_text_1col_image" %}
+						{% include "2row_images_1col_text" %}
+						
+
+						<!-- <tr>
 							<td valign="middle" class="logo progress" width="335" height="119" style="color:#a90056;font-size:26px;font-weight:bold;"><img src="http://media.ofsys.com/T/OFSYS/H/680943/ApBp5I/logo_progress_en.png " alt="Progress - Make it yours" width="568" height="119" style="display:block;border:0"></td>
 							<td valign="top" rowspan="2" style="padding:0 0 0px 0" width="102"><img src="http://media.ofsys.com/T/OFSYS/H/680947/2AlbD9/side_newsletter.png" alt="" width="102" height="204" style="display:block;border:0"></td>
 						</tr>
 						<tr>
 							<td valign="middle" align="center" height="85" class="logo humira" style="background-color:#a90056;color:#fff;font-size:24px;font-weight:bold"><img src="http://media.ofsys.com/T/OFSYS/H/680945/LpQsIy/humira_you.png" alt="HUMIRA and YOU" width="568" height="85" style="display:block;border:0"></td>
-						</tr>
+						</tr> -->
 						<tr>
 							<td valign="top" style="padding:12px 20px 10px 5px;">
 								<p style="margin:0 0 8px 0"><strong style="color:#a90056">Hi [[=Contact.f_FirstName;]],</strong></p>

@@ -28,7 +28,6 @@
 
 		"outside-txt": "#959595",
 		"outside-link": "#959595"
-
 	},
 
 	"font":
@@ -36,6 +35,11 @@
 		"main": "font-size:12px;font-family:Arial,Helvetica,sans-serif",
 		"header": "font-family:Arial, Helvetica, sans-serif; font-size:11px",
 		"footer": "font-family:Arial, Helvetica, sans-serif; font-size:11px"
+	},
+
+	"gutters":
+	{
+		
 	}
 
 }
