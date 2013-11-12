@@ -1,5 +1,6 @@
 {% block styles %}
 <style type="text/css">
+/* OLD STYLES */
     body, p, span, a, strong, em {
 		-webkit-text-size-adjust: none;
 	}
@@ -13,6 +14,8 @@
 	a img {
 		border: none;
 	}
+
+
 	.ExternalClass a, .ExternalClass a.ecxaapl-link, .ExternalClass a.ecxaapl-link:link
 	{text-decoration:none;}
 	.ExternalClass a.ecxaapl-link:hover
@@ -29,6 +32,14 @@
 	 {color:inherit;}
 	}
 
+
+/* NEW STYLES */
+	body img
+	{
+		max-width:100%;
+		height:auto;
+	}
+
 	@media only screen and (min-device-width: {{global.width.main | plus: 1}}px) {
 		.content {
 			width: {{global.width.main}}px !important;
@@ -36,3 +47,5 @@
 	}
 </style>
 {% endblock %}
+{% assign total_side = global.gutter.side | times: 2 %}
+{% assign image_width = global.width.main | minus:total_side %}

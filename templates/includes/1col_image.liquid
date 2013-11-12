@@ -1,3 +1,5 @@
+<!-- 1col_image: Perfect for a header image -->
+{% assign dimensions = image_width | append: 'x150' %}
 				<tr>
-					<td>{{ "100x100" | placeholder | image_tag }}</td>
+					<td class="header-image">{{ dimensions | placeholder | image_tag:"aaaa" }}</td>
 				</tr>
